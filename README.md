@@ -1,4 +1,4 @@
-# 구성 
+# 간단한 문법 위주의 학습 및 테스트 용 프로젝트
 ### UnitTest.class
 - 1. 함수, 기본 return값 = Unit (void는 없다.)
   2. `val` VS `var` 차이점
